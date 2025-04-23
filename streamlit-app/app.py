@@ -3,9 +3,11 @@ import pandas as pd
 from io import StringIO
 import json
 from datetime import datetime
+import os
 
 st.set_page_config(layout="wide")  # Default layout for the app
-with open("codigos_paises.json", encoding="utf-8") as f:
+file_path = os.path.join(os.path.dirname(__file__), "codigos_paises.json")
+with open(file_path, encoding="utf-8") as f:
     paises_info_list = json.load(f)
     paises_info = {item['Cód. Alf2']: item for item in paises_info_list}
 
