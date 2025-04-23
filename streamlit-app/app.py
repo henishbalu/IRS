@@ -1,9 +1,15 @@
 import streamlit as st
 import pandas as pd
+from io import StringIO
+import json
+from datetime import datetime
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")  # Default layout for the app
+with open("codigos_paises.json", encoding="utf-8") as f:
+    paises_info_list = json.load(f)
+    paises_info = {item['Cód. Alf2']: item for item in paises_info_list}
 
-def process_ficheiro(uploaded_file, ano_alvo):
+def process_ficheiro_degiro(uploaded_file, ano_alvo):
     try:
         df = pd.read_csv(uploaded_file, delimiter=',')
         df.columns = df.columns.str.strip()
@@ -58,12 +64,11 @@ def process_ficheiro(uploaded_file, ano_alvo):
                     total_comissoes = round(comissao_compra + comissao_venda, 2)
 
                     fifo_result.append([
-                        compra['Produto'], usar_qtd,
                         venda['Data'].year, venda['Data'].month, venda['Data'].day,
                         valor_venda,
                         compra['Data'].year, compra['Data'].month, compra['Data'].day,
                         valor_compra,
-                        total_comissoes
+                        total_comissoes,compra['Produto'], compra['ISIN'], usar_qtd,
                     ])
 
                     qtd_restante_compra -= usar_qtd
@@ -74,35 +79,97 @@ def process_ficheiro(uploaded_file, ano_alvo):
                         venda_idx += 1
 
         fifo_df = pd.DataFrame(fifo_result, columns=[
-            "Produto", "Quantidade", "Ano Venda", "Mês Venda", "Dia Venda", "Valor Venda",
-            "Ano Compra", "Mês Compra", "Dia Compra", "Valor Compra", "Comissões"
+            "Ano Venda", "Mês Venda", "Dia Venda", "Valor Venda",
+            "Ano Compra", "Mês Compra", "Dia Compra", "Valor Compra", "Despesas e Encargos","Produto", "ISIN", "Quantidade"
         ])
-        fifo_df["Mais-Valia"] = fifo_df["Valor Venda"] + fifo_df["Valor Compra"] + fifo_df["Comissões"]
+        fifo_df["Mais-Valia"] = round(fifo_df["Valor Venda"] + fifo_df["Valor Compra"] + fifo_df["Despesas e Encargos"],2)
+
+        # === Enriquecer com País e Cód. Num com base no novo JSON ===
+        fifo_df["Código País"] = fifo_df["ISIN"].str[:2]
+        fifo_df["País"] = fifo_df["Código País"].map(lambda c: paises_info.get(c, {}).get("Designação", "Desconhecido").title())
+        fifo_df["Cód. Num."] = fifo_df["Código País"].map(lambda c: paises_info.get(c, {}).get("Cód.Num.", ""))
+        fifo_df["Código e País"] = fifo_df["Cód. Num."].astype(str) + " - " + fifo_df["País"]
 
         resumo_produto = (
             fifo_df.groupby("Produto")
-            .agg({"Valor Venda": "sum", "Valor Compra": "sum", "Comissões": "sum"})
-            .assign(Ganho_Perda=lambda x: x["Valor Venda"] + x["Valor Compra"] + x["Comissões"])
+            .agg({"Valor Venda": "sum", "Valor Compra": "sum", "Despesas e Encargos": "sum"})
+            .assign(Ganho_Perda=lambda x: x["Valor Venda"] + x["Valor Compra"] + x["Despesas e Encargos"])
             .reset_index()
         )
+        
+        def render_grouped_table(df):
 
+            # Define groups
+            principal_cols = ["Código e País","Ano Venda", "Mês Venda", "Dia Venda", "Valor Venda", "Ano Compra", "Mês Compra", "Dia Compra", "Valor Compra","Despesas e Encargos"]
+            auxiliar_cols = ["Produto", "Quantidade", "Mais-Valia"]
+
+            df = df[principal_cols + auxiliar_cols]  # reorder
+
+            # Build HTML
+            html = StringIO()
+            html.write('<table border="1" style="width:100%; border-collapse: collapse;">')
+            html.write('<thead><tr>')
+
+            # First header row (groups)
+            html.write(f'<th colspan="{len(principal_cols)}" style="background:#f0f0f0; text-align: center; font-size: 16px; font-weight: bold;">Principal</th>')
+            html.write(f'<th colspan="{len(auxiliar_cols)}" style="background:#f0f0f0; text-align: center; font-size: 16px;">Auxiliar</th>')
+            html.write('</tr><tr>')
+
+            # Second header row (individual columns)
+            for col in principal_cols + auxiliar_cols:
+                html.write(f'<th>{col}</th>')
+            html.write('</tr></thead><tbody>')
+
+            # Table body
+            for _, row in df.iterrows():
+                html.write('<tr>')
+                for col in principal_cols + auxiliar_cols:
+                    html.write(f'<td>{row[col]}</td>')
+                html.write('</tr>')
+
+            html.write('</tbody></table>')
+            st.markdown(html.getvalue(), unsafe_allow_html=True)
+        
         st.subheader("Resultado FIFO")
-        st.dataframe(fifo_df, use_container_width=True)
+        render_grouped_table(fifo_df)
 
         st.subheader("Resumo de Ganhos/Perdas por Produto")
-        st.dataframe(resumo_produto, use_container_width=True)
+
+        # Format the relevant columns with the € symbol
+        resumo_produto[["Valor Venda", "Valor Compra", "Despesas e Encargos", "Ganho_Perda"]] = resumo_produto[
+            ["Valor Venda", "Valor Compra", "Despesas e Encargos", "Ganho_Perda"]
+        ].map(lambda x: f"{x:,.2f} €")
+
+        # Display the formatted DataFrame using st.table
+        st.table(resumo_produto)
 
     except Exception as e:
         st.error(f"Erro ao processar o ficheiro: {e}")
 
-def main():
-    st.title("Calculadora de Mais-Valias (FIFO)")
+def process_ficheiro_trading212(uploaded_file, ano_alvo):
+    try:
+        # Example processing logic for TRADING 212
+        df = pd.read_csv(uploaded_file, delimiter=',')
+        st.write("Em desenvolvimento")
+        # Add your TRADING 212-specific processing logic here 
+        # Display the uploaded file as a DataFrame for now
+    except Exception as e:
+        st.error(f"Erro ao processar o ficheiro: {e}")
 
-    uploaded_file = st.file_uploader("Escolhe o ficheiro de transações", type=["csv", "xls", "xlsx"])
+def main():
+    st.title("Calculadora de apoio de Mais-Valias e Menos-Valias no IRS")
+
+    # Add a selectbox to choose between DEGIRO and TRADING 212
+    platform = st.selectbox("Escolha a plataforma de transações", ["DEGIRO", "TRADING 212"])
+
+    uploaded_file = st.file_uploader("Escolhe o ficheiro de transações", type=["csv"])
     if uploaded_file:
-        ano = st.number_input("Ano para analisar", min_value=2000, max_value=2100, value=2024)
-        if st.button("Calcular Mais-Valias"):
-            process_ficheiro(uploaded_file, ano)
+        ano = st.number_input("Escolha o ano para analisar", min_value=2000, max_value=datetime.now().year, value=2024)
+        if st.button("Calcular Valores"):
+            if platform == "DEGIRO":
+                process_ficheiro_degiro(uploaded_file, ano)
+            elif platform == "TRADING 212":
+                process_ficheiro_trading212(uploaded_file, ano)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,1535 @@
+[
+  {
+    "Cód.Num.": "004",
+    "Cód. Alf2": "AF",
+    "Cód. Alf3": "AFG",
+    "Designação": "AFEGANISTAO",
+    "Designação em Inglês": "AFGHANISTAN"
+  },
+  {
+    "Cód.Num.": "710",
+    "Cód. Alf2": "ZA",
+    "Cód. Alf3": "ZAF",
+    "Designação": "AFRICA DO SUL",
+    "Designação em Inglês": "SOUTH AFRICA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "008",
+    "Cód. Alf2": "AL",
+    "Cód. Alf3": "ALB",
+    "Designação": "ALBANIA",
+    "Designação em Inglês": "ALBANIA, PEOPLE'S SOCIALIST REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "276",
+    "Cód. Alf2": "DE",
+    "Cód. Alf3": "DEU",
+    "Designação": "ALEMANHA",
+    "Designação em Inglês": "GERMANY"
+  },
+  {
+    "Cód.Num.": "020",
+    "Cód. Alf2": "AD",
+    "Cód. Alf3": "AND",
+    "Designação": "ANDORRA",
+    "Designação em Inglês": "ANDORRA, PRINCIPALITY OF"
+  },
+  {
+    "Cód.Num.": "024",
+    "Cód. Alf2": "AO",
+    "Cód. Alf3": "AGO",
+    "Designação": "ANGOLA",
+    "Designação em Inglês": "ANGOLA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "660",
+    "Cód. Alf2": "Al",
+    "Cód. Alf3": "AIA",
+    "Designação": "ANGUILA",
+    "Designação em Inglês": "ANGUILLA"
+  },
+  {
+    "Cód.Num.": "010\n\n\n028",
+    "Cód. Alf2": "AQ\n\n\nAG",
+    "Cód. Alf3": "ATA\n\n\nATG",
+    "Designação": "ANTARCTICA\n\n\nANTIGUA E BARBUDA",
+    "Designação em Inglês": "ANTARCTICA (THE TERRITORY SOUTH OF 60 DEG S)\nANTIGUA AND BARBUDA"
+  },
+  {
+    "Cód.Num.": "530",
+    "Cód. Alf2": "AN",
+    "Cód. Alf3": "ANT",
+    "Designação": "ANTILHAS HOLANDESAS",
+    "Designação em Inglês": "NETHERLANDS ANTILLES"
+  },
+  {
+    "Cód.Num.": "682",
+    "Cód. Alf2": "SA",
+    "Cód. Alf3": "SAU",
+    "Designação": "ARABIA SAUDITA",
+    "Designação em Inglês": "SAUDI ARABIA, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "012",
+    "Cód. Alf2": "DZ",
+    "Cód. Alf3": "DZA",
+    "Designação": "ARGELIA",
+    "Designação em Inglês": "ALGERIA, PEOPLE'S DEMOCRATIC REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "032",
+    "Cód. Alf2": "AR",
+    "Cód. Alf3": "ARG",
+    "Designação": "ARGENTINA",
+    "Designação em Inglês": "ARGENTINA, ARGENTINE REPUBLIC"
+  },
+  {
+    "Cód.Num.": "051",
+    "Cód. Alf2": "AM",
+    "Cód. Alf3": "ARM",
+    "Designação": "ARMENIA",
+    "Designação em Inglês": "ARMENIA"
+  },
+  {
+    "Cód.Num.": "533",
+    "Cód. Alf2": "AW",
+    "Cód. Alf3": "ABW",
+    "Designação": "ARUBA",
+    "Designação em Inglês": "ARUBA"
+  },
+  {
+    "Cód.Num.": "036",
+    "Cód. Alf2": "AU",
+    "Cód. Alf3": "AUS",
+    "Designação": "AUSTRALIA",
+    "Designação em Inglês": "AUSTRALIA, COMMONWEALTH OF"
+  },
+  {
+    "Cód.Num.": "040",
+    "Cód. Alf2": "AT",
+    "Cód. Alf3": "AUT",
+    "Designação": "AUSTRIA",
+    "Designação em Inglês": "AUSTRIA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "031",
+    "Cód. Alf2": "AZ",
+    "Cód. Alf3": "AZE",
+    "Designação": "AZERBAIJAO",
+    "Designação em Inglês": "AZERBAIJAN, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "044",
+    "Cód. Alf2": "BS",
+    "Cód. Alf3": "BHS",
+    "Designação": "BAHAMAS",
+    "Designação em Inglês": "BAHAMAS, COMMONWEALTH OF THE"
+  },
+  {
+    "Cód.Num.": "050",
+    "Cód. Alf2": "BD",
+    "Cód. Alf3": "BGD",
+    "Designação": "BANGLADESH",
+    "Designação em Inglês": "BANGLADESH, PEOPLE'S REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "052",
+    "Cód. Alf2": "BB",
+    "Cód. Alf3": "BRB",
+    "Designação": "BARBADOS",
+    "Designação em Inglês": "BARBADOS"
+  },
+  {
+    "Cód.Num.": "048",
+    "Cód. Alf2": "BH",
+    "Cód. Alf3": "BHR",
+    "Designação": "BAREM",
+    "Designação em Inglês": "BAHRAIN, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "056",
+    "Cód. Alf2": "BE",
+    "Cód. Alf3": "BEL",
+    "Designação": "BELGICA",
+    "Designação em Inglês": "BELGIUM, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "084",
+    "Cód. Alf2": "BZ",
+    "Cód. Alf3": "BLZ",
+    "Designação": "BELIZE",
+    "Designação em Inglês": "BELIZE"
+  },
+  {
+    "Cód.Num.": "204",
+    "Cód. Alf2": "BJ",
+    "Cód. Alf3": "BEN",
+    "Designação": "BENIN",
+    "Designação em Inglês": "BENIN (WAS DAHOMEY), PEOPLE'S REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "060",
+    "Cód. Alf2": "BM",
+    "Cód. Alf3": "BMU",
+    "Designação": "BERMUDA",
+    "Designação em Inglês": "BERMUDA"
+  },
+  {
+    "Cód.Num.": "112",
+    "Cód. Alf2": "BY",
+    "Cód. Alf3": "BLR",
+    "Designação": "BIELORRUSSIA",
+    "Designação em Inglês": "BELARUS"
+  },
+  {
+    "Cód.Num.": "068",
+    "Cód. Alf2": "BO",
+    "Cód. Alf3": "BOL",
+    "Designação": "BOLIVIA",
+    "Designação em Inglês": "BOLIVIA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "070",
+    "Cód. Alf2": "BA",
+    "Cód. Alf3": "BIH",
+    "Designação": "BOSNIA E HERZEGOVINA",
+    "Designação em Inglês": "BOSNIA AND HERZEGOVINA"
+  },
+  {
+    "Cód.Num.": "072",
+    "Cód. Alf2": "BW",
+    "Cód. Alf3": "BWA",
+    "Designação": "BOTSWANA",
+    "Designação em Inglês": "BOTSWANA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "076",
+    "Cód. Alf2": "BR",
+    "Cód. Alf3": "BRA",
+    "Designação": "BRASIL",
+    "Designação em Inglês": "BRAZIL, FEDERATIVE REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "096",
+    "Cód. Alf2": "BN",
+    "Cód. Alf3": "BRN",
+    "Designação": "BRUNEI DARUSSALAM",
+    "Designação em Inglês": "BRUNEI DARUSSALAM"
+  },
+  {
+    "Cód.Num.": "100",
+    "Cód. Alf2": "BG",
+    "Cód. Alf3": "BGR",
+    "Designação": "BULGARIA",
+    "Designação em Inglês": "BULGARIA, PEOPLE'S REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "854",
+    "Cód. Alf2": "BF",
+    "Cód. Alf3": "BFA",
+    "Designação": "BURKINA FASO",
+    "Designação em Inglês": "BURKINA FASO (WAS UPPER VOLTA)"
+  },
+  {
+    "Cód.Num.": "108",
+    "Cód. Alf2": "BI",
+    "Cód. Alf3": "BDI",
+    "Designação": "BURUNDI",
+    "Designação em Inglês": "BURUNDI, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "064",
+    "Cód. Alf2": "BT",
+    "Cód. Alf3": "BTN",
+    "Designação": "BUTAO",
+    "Designação em Inglês": "BHUTAN, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "132",
+    "Cód. Alf2": "CV",
+    "Cód. Alf3": "CPV",
+    "Designação": "CABO VERDE",
+    "Designação em Inglês": "CAPE VERDE, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "120",
+    "Cód. Alf2": "CM",
+    "Cód. Alf3": "CMR",
+    "Designação": "CAMAROES",
+    "Designação em Inglês": "CAMEROON, UNITED REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "116",
+    "Cód. Alf2": "KH",
+    "Cód. Alf3": "KHM",
+    "Designação": "CAMBOJA",
+    "Designação em Inglês": "CAMBODIA, KINGDOM OF (WAS KHMER REPUBLIC/KAMPUCHEA)"
+  },
+  {
+    "Cód.Num.": "124",
+    "Cód. Alf2": "CA",
+    "Cód. Alf3": "CAN",
+    "Designação": "CANADA",
+    "Designação em Inglês": "CANADA"
+  },
+  {
+    "Cód.Num.": "634",
+    "Cód. Alf2": "QA",
+    "Cód. Alf3": "QAT",
+    "Designação": "CATAR",
+    "Designação em Inglês": "QATAR, STATE OF"
+  },
+  {
+    "Cód.Num.": "398",
+    "Cód. Alf2": "KZ",
+    "Cód. Alf3": "KAZ",
+    "Designação": "CAZAQUISTAO",
+    "Designação em Inglês": "KAZAKHSTAN, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "140",
+    "Cód. Alf2": "CF",
+    "Cód. Alf3": "CAF",
+    "Designação": "CENTRO-AFRICANA (REPUBLICA)",
+    "Designação em Inglês": "CENTRAL AFRICAN REPUBLIC"
+  },
+  {
+    "Cód.Num.": "148",
+    "Cód. Alf2": "TD",
+    "Cód. Alf3": "TCD",
+    "Designação": "CHADE",
+    "Designação em Inglês": "CHAD, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "152",
+    "Cód. Alf2": "CL",
+    "Cód. Alf3": "CHL",
+    "Designação": "CHILE",
+    "Designação em Inglês": "CHILE, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "156",
+    "Cód. Alf2": "CN",
+    "Cód. Alf3": "CHN",
+    "Designação": "CHINA",
+    "Designação em Inglês": "CHINA, PEOPLE'S REPUBLIC\n\n\nOF"
+  },
+  {
+    "Cód.Num.": "196",
+    "Cód. Alf2": "CY",
+    "Cód. Alf3": "CYP",
+    "Designação": "CHIPRE",
+    "Designação em Inglês": "CYPRUS, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "170",
+    "Cód. Alf2": "CO",
+    "Cód. Alf3": "COL",
+    "Designação": "COLOMBIA",
+    "Designação em Inglês": "COLOMBIA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "174",
+    "Cód. Alf2": "KM",
+    "Cód. Alf3": "COM",
+    "Designação": "COMORES",
+    "Designação em Inglês": "COMOROS, FEDERAL AND ISLAMIC REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "178\n\n\n180",
+    "Cód. Alf2": "CG\n\n\nCD",
+    "Cód. Alf3": "COG\n\n\nCOD",
+    "Designação": "CONGO\n\n\nCONGO (REPUBLICA DEMOCRATICA DO)",
+    "Designação em Inglês": "CONGO, PEOPLE'S REPUBLIC OF\nCONGO, DEMOCRATIC REPUBLIC OF (WAS ZAIRE)"
+  },
+  {
+    "Cód.Num.": "410",
+    "Cód. Alf2": "KR",
+    "Cód. Alf3": "KOR",
+    "Designação": "COREIA (REPUBLICA DA)",
+    "Designação em Inglês": "KOREA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "408\n\n\n384",
+    "Cód. Alf2": "KP\n\n\nCI",
+    "Cód. Alf3": "PRK\n\n\nCIV",
+    "Designação": "COREIA (REPUBLICA POPULAR DEMOCRATICA DA)\n\n\nCOSTA DO MARFIM",
+    "Designação em Inglês": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF\nCOTE D'IVOIRE, IVORY COAST, REPUBLIC OF THE"
+  },
+  {
+    "Cód.Num.": "188",
+    "Cód. Alf2": "CR",
+    "Cód. Alf3": "CRI",
+    "Designação": "COSTA RICA",
+    "Designação em Inglês": "COSTA RICA, REPUBLIC\n\n\nOF"
+  },
+  {
+    "Cód.Num.": "191",
+    "Cód. Alf2": "HR",
+    "Cód. Alf3": "HRV",
+    "Designação": "CROACIA",
+    "Designação em Inglês": "HRVATSKA (CROATIA)"
+  },
+  {
+    "Cód.Num.": "192",
+    "Cód. Alf2": "CU",
+    "Cód. Alf3": "CUB",
+    "Designação": "CUBA",
+    "Designação em Inglês": "CUBA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "208",
+    "Cód. Alf2": "DK",
+    "Cód. Alf3": "DNK",
+    "Designação": "DINAMARCA",
+    "Designação em Inglês": "DENMARK, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "212",
+    "Cód. Alf2": "DM",
+    "Cód. Alf3": "DMA",
+    "Designação": "DOMINICA",
+    "Designação em Inglês": "DOMINICA, COMMONWEALTH OF"
+  },
+  {
+    "Cód.Num.": "818",
+    "Cód. Alf2": "EG",
+    "Cód. Alf3": "EGY",
+    "Designação": "EGIPTO",
+    "Designação em Inglês": "EGYPT, ARAB REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "222\n\n\n784",
+    "Cód. Alf2": "SV\n\n\nAE",
+    "Cód. Alf3": "SLV\n\n\nARE",
+    "Designação": "EL SALVADOR\n\n\nEMIRATOS ARABES UNIDOS",
+    "Designação em Inglês": "EL SALVADOR, REPUBLIC\n\n\nOF\nUNITED ARAB EMIRATES (WAS TRUCIAL STATES)"
+  },
+  {
+    "Cód.Num.": "218",
+    "Cód. Alf2": "EC",
+    "Cód. Alf3": "ECU",
+    "Designação": "EQUADOR",
+    "Designação em Inglês": "ECUADOR, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "232",
+    "Cód. Alf2": "ER",
+    "Cód. Alf3": "ERI",
+    "Designação": "ERITREIA",
+    "Designação em Inglês": "ERITREA"
+  },
+  {
+    "Cód.Num.": "703",
+    "Cód. Alf2": "SK",
+    "Cód. Alf3": "SVK",
+    "Designação": "ESLOVACA (REPUBLICA)",
+    "Designação em Inglês": "SLOVAKIA (SLOVAK REPUBLIC)"
+  },
+  {
+    "Cód.Num.": "705",
+    "Cód. Alf2": "SI",
+    "Cód. Alf3": "SVN",
+    "Designação": "ESLOVENIA",
+    "Designação em Inglês": "SLOVENIA"
+  },
+  {
+    "Cód.Num.": "724",
+    "Cód. Alf2": "ES",
+    "Cód. Alf3": "ESP",
+    "Designação": "ESPANHA",
+    "Designação em Inglês": "SPAIN, SPANISH STATE"
+  },
+  {
+    "Cód.Num.": "840",
+    "Cód. Alf2": "US",
+    "Cód. Alf3": "USA",
+    "Designação": "ESTADOS UNIDOS",
+    "Designação em Inglês": "UNITED STATES OF AMERICA"
+  },
+  {
+    "Cód.Num.": "233",
+    "Cód. Alf2": "EE",
+    "Cód. Alf3": "EST",
+    "Designação": "ESTONIA",
+    "Designação em Inglês": "ESTONIA"
+  },
+  {
+    "Cód.Num.": "231",
+    "Cód. Alf2": "ET",
+    "Cód. Alf3": "ETH",
+    "Designação": "ΕΤΙΟΡΙΑ",
+    "Designação em Inglês": "ETHIOPIA"
+  },
+  {
+    "Cód.Num.": "608",
+    "Cód. Alf2": "PH",
+    "Cód. Alf3": "PHL",
+    "Designação": "FILIPINAS",
+    "Designação em Inglês": "THE\n\n\nPHILIPPINES, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "246",
+    "Cód. Alf2": "FI",
+    "Cód. Alf3": "FIN",
+    "Designação": "FINLANDIA",
+    "Designação em Inglês": "FINLAND, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "250",
+    "Cód. Alf2": "FR",
+    "Cód. Alf3": "FRA",
+    "Designação": "FRANCA",
+    "Designação em Inglês": "FRANCE, FRENCH REPUBLIC"
+  },
+  {
+    "Cód.Num.": "266",
+    "Cód. Alf2": "GA",
+    "Cód. Alf3": "GAB",
+    "Designação": "GABAO",
+    "Designação em Inglês": "GABON, GABONESE REPUBLIC"
+  },
+  {
+    "Cód.Num.": "270",
+    "Cód. Alf2": "GM",
+    "Cód. Alf3": "GMB",
+    "Designação": "GAMBIA",
+    "Designação em Inglês": "GAMBIA, REPUBLIC OF THE"
+  },
+  {
+    "Cód.Num.": "288",
+    "Cód. Alf2": "GH",
+    "Cód. Alf3": "GHA",
+    "Designação": "GANA",
+    "Designação em Inglês": "GHANA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "268",
+    "Cód. Alf2": "GE",
+    "Cód. Alf3": "GEO",
+    "Designação": "GEORGIA",
+    "Designação em Inglês": "GEORGIA"
+  },
+  {
+    "Cód.Num.": "239\n\n\n831",
+    "Cód. Alf2": "GS\n\n\nGG",
+    "Cód. Alf3": "SGS\n\n\nGGY",
+    "Designação": "GEORGIA DO SUL E ILHAS SANDWICH\n\n\nGERNSEY",
+    "Designação em Inglês": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS\nGERNSEY (a partir de 2006-03-29)"
+  },
+  {
+    "Cód.Num.": "292",
+    "Cód. Alf2": "GI",
+    "Cód. Alf3": "GIB",
+    "Designação": "GIBRALTAR",
+    "Designação em Inglês": "GIBRALTAR"
+  },
+  {
+    "Cód.Num.": "308",
+    "Cód. Alf2": "GD",
+    "Cód. Alf3": "GRD",
+    "Designação": "GRANADA",
+    "Designação em Inglês": "GRENADA"
+  },
+  {
+    "Cód.Num.": "300",
+    "Cód. Alf2": "GR",
+    "Cód. Alf3": "GRC",
+    "Designação": "GRECIA",
+    "Designação em Inglês": "GREECE, HELLENIC REPUBLIC"
+  },
+  {
+    "Cód.Num.": "304",
+    "Cód. Alf2": "GL",
+    "Cód. Alf3": "GRL",
+    "Designação": "GRONELANDIA",
+    "Designação em Inglês": "GREENLAND"
+  },
+  {
+    "Cód.Num.": "312",
+    "Cód. Alf2": "GP",
+    "Cód. Alf3": "GLP",
+    "Designação": "GUADALUPE",
+    "Designação em Inglês": "GUADALOUPE"
+  },
+  {
+    "Cód.Num.": "316",
+    "Cód. Alf2": "GU",
+    "Cód. Alf3": "GUM",
+    "Designação": "GUAM",
+    "Designação em Inglês": "GUAM"
+  },
+  {
+    "Cód.Num.": "320",
+    "Cód. Alf2": "GT",
+    "Cód. Alf3": "GTM",
+    "Designação": "GUATEMALA",
+    "Designação em Inglês": "GUATEMALA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "328",
+    "Cód. Alf2": "GY",
+    "Cód. Alf3": "GUY",
+    "Designação": "GUIANA",
+    "Designação em Inglês": "GUYANA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "254",
+    "Cód. Alf2": "GF",
+    "Cód. Alf3": "GUF",
+    "Designação": "GUIANA FRANCESA",
+    "Designação em Inglês": "FRENCH GUIANA"
+  },
+  {
+    "Cód.Num.": "324\n\n\n226",
+    "Cód. Alf2": "GN\n\n\nGQ",
+    "Cód. Alf3": "GIN\n\n\nGNO",
+    "Designação": "GUINE\n\n\nGUINE EQUATORIAL",
+    "Designação em Inglês": "GUINEA, REVOLUTIONARY PEOPLE'S REP'C OF\nEQUATORIAL GUINEA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "624\n\n\n332",
+    "Cód. Alf2": "GW\n\n\nHT",
+    "Cód. Alf3": "GNB\n\n\nHTI",
+    "Designação": "GUINE-BISSAU\n\n\nHAITI",
+    "Designação em Inglês": "GUINEA-BISSAU, REPUBLIC OF (WAS PORTUGUESE GUINEA)\nHAITI, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "340",
+    "Cód. Alf2": "HN",
+    "Cód. Alf3": "HND",
+    "Designação": "HONDURAS",
+    "Designação em Inglês": "HONDURAS, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "344\n\n\n348",
+    "Cód. Alf2": "HK\n\n\nHU",
+    "Cód. Alf3": "HKG\n\n\nHUN",
+    "Designação": "HONG KONG\n\n\nHUNGRIA",
+    "Designação em Inglês": "HONG KONG, SPECIAL ADMINISTRATIVE REGION OF CHINA\nHUNGARY, HUNGARIAN PEOPLE'S REPUBLIC"
+  },
+  {
+    "Cód.Num.": "887",
+    "Cód. Alf2": "YE",
+    "Cód. Alf3": "YEM",
+    "Designação": "IEMEN",
+    "Designação em Inglês": "YEMEN"
+  },
+  {
+    "Cód.Num.": "248",
+    "Cód. Alf2": "AX",
+    "Cód. Alf3": "ALA",
+    "Designação": "ILHAS ALAND",
+    "Designação em Inglês": "ALAND ISLANDS"
+  },
+  {
+    "Cód.Num.": "074",
+    "Cód. Alf2": "BV",
+    "Cód. Alf3": "BVT",
+    "Designação": "ILHAS BOUVET",
+    "Designação em Inglês": "BOUVET ISLAND (BOUVETOΥΑ)"
+  },
+  {
+    "Cód.Num.": "136",
+    "Cód. Alf2": "KY",
+    "Cód. Alf3": "CYM",
+    "Designação": "ILHAS CAIMAO",
+    "Designação em Inglês": "CAYMAN ISLANDS"
+  },
+  {
+    "Cód.Num.": "162",
+    "Cód. Alf2": "CX",
+    "Cód. Alf3": "CXR",
+    "Designação": "ILHAS CHRISTMAS",
+    "Designação em Inglês": "CHRISTMAS ISLAND"
+  },
+  {
+    "Cód.Num.": "166",
+    "Cód. Alf2": "CC",
+    "Cód. Alf3": "CCK",
+    "Designação": "ILHAS COCOS (KEELING)",
+    "Designação em Inglês": "COCOS (KEELING) ISLANDS"
+  },
+  {
+    "Cód.Num.": "184",
+    "Cód. Alf2": "CK",
+    "Cód. Alf3": "COK",
+    "Designação": "ILHAS COOK",
+    "Designação em Inglês": "COOK ISLANDS"
+  },
+  {
+    "Cód.Num.": "830\n\n\n238",
+    "Cód. Alf2": "FK\n",
+    "Cód. Alf3": "FLK",
+    "Designação": "ILHAS DO CANAL (inclui ilhas de GUERNSEY e JERSEY)\n\n\nILHAS FALKLAND (MALVINAS)",
+    "Designação em Inglês": "CHANNEL ISLANDS (até 2006-03-28)\nFALKLAND ISLANDS (MALVINAS)"
+  },
+  {
+    "Cód.Num.": "234",
+    "Cód. Alf2": "FO",
+    "Cód. Alf3": "FRO",
+    "Designação": "ILHAS FAROE",
+    "Designação em Inglês": "FAEROE ISLANDS"
+  },
+  {
+    "Cód.Num.": "242\n\n\n334",
+    "Cód. Alf2": "FJ\n\n\nHM",
+    "Cód. Alf3": "FJI\n\n\nHMD",
+    "Designação": "ILHAS FIJI\n\n\nILHAS HEARD E ILHAS MCDONALD",
+    "Designação em Inglês": "FIJI, REPUBLIC OF THE FIJI ISLANDS\nHEARD AND MCDONALD ISLANDS"
+  },
+  {
+    "Cód.Num.": "833",
+    "Cód. Alf2": "IM",
+    "Cód. Alf3": "IMN",
+    "Designação": "ILHA DE MAN",
+    "Designação em Inglês": "ISLE OF MAN"
+  },
+  {
+    "Cód.Num.": "580",
+    "Cód. Alf2": "MP",
+    "Cód. Alf3": "MNP",
+    "Designação": "ILHAS MARIANAS DO NORTE",
+    "Designação em Inglês": "NORTHERN MARIANA ISLANDS"
+  },
+  {
+    "Cód.Num.": "584",
+    "Cód. Alf2": "MH",
+    "Cód. Alf3": "MHL",
+    "Designação": "ILHAS MARSHALL",
+    "Designação em Inglês": "MARSHALL ISLANDS"
+  },
+  {
+    "Cód.Num.": "581",
+    "Cód. Alf2": "UM",
+    "Cód. Alf3": "UMI",
+    "Designação": "ILHAS MENORES DISTANTES DOS ESTADOS UNIDOS",
+    "Designação em Inglês": "UNITED STATES MINOR OUTLYING ISLANDS"
+  },
+  {
+    "Cód.Num.": "574",
+    "Cód. Alf2": "NF",
+    "Cód. Alf3": "NFK",
+    "Designação": "ILHAS NORFOLK",
+    "Designação em Inglês": "NORFOLK ISLAND"
+  },
+  {
+    "Cód.Num.": "090",
+    "Cód. Alf2": "SB",
+    "Cód. Alf3": "SLB",
+    "Designação": "ILHAS SALOMAO",
+    "Designação em Inglês": "SOLOMON ISLANDS (WAS BRITISH SOLOMON ISLANDS)"
+  },
+  {
+    "Cód.Num.": "092",
+    "Cód. Alf2": "VG",
+    "Cód. Alf3": "VGB",
+    "Designação": "ILHAS VIRGENS (BRITANICAS)",
+    "Designação em Inglês": "BRITISH VIRGIN ISLANDS"
+  },
+  {
+    "Cód.Num.": "850",
+    "Cód. Alf2": "VI",
+    "Cód. Alf3": "VIR",
+    "Designação": "ILHAS VIRGENS (ESTADOS UNIDOS)",
+    "Designação em Inglês": "US VIRGIN ISLANDS"
+  },
+  {
+    "Cód.Num.": "356",
+    "Cód. Alf2": "IN",
+    "Cód. Alf3": "IND",
+    "Designação": "INDIA",
+    "Designação em Inglês": "INDIA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "360",
+    "Cód. Alf2": "ID",
+    "Cód. Alf3": "IDN",
+    "Designação": "INDONESIA",
+    "Designação em Inglês": "INDONESIA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "364",
+    "Cód. Alf2": "IR",
+    "Cód. Alf3": "IRN",
+    "Designação": "IRAO (REPUBLICA ISLAMICA)",
+    "Designação em Inglês": "IRAN, ISLAMIC REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "368",
+    "Cód. Alf2": "IQ",
+    "Cód. Alf3": "IRQ",
+    "Designação": "IRAQUE",
+    "Designação em Inglês": "IRAQ, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "372",
+    "Cód. Alf2": "IE",
+    "Cód. Alf3": "IRL",
+    "Designação": "IRLANDA",
+    "Designação em Inglês": "IRELAND"
+  },
+  {
+    "Cód.Num.": "352",
+    "Cód. Alf2": "IS",
+    "Cód. Alf3": "ISL",
+    "Designação": "ISLANDIA",
+    "Designação em Inglês": "ICELAND, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "376",
+    "Cód. Alf2": "IL",
+    "Cód. Alf3": "ISR",
+    "Designação": "ISRAEL",
+    "Designação em Inglês": "ISRAEL, STATE OF"
+  },
+  {
+    "Cód.Num.": "380",
+    "Cód. Alf2": "IT",
+    "Cód. Alf3": "ITA",
+    "Designação": "ITALIA",
+    "Designação em Inglês": "ITALY, ITALIAN REPUBLIC"
+  },
+  {
+    "Cód.Num.": "388",
+    "Cód. Alf2": "JM",
+    "Cód. Alf3": "JAM",
+    "Designação": "JAMAICA",
+    "Designação em Inglês": "JAMAICA"
+  },
+  {
+    "Cód.Num.": "392",
+    "Cód. Alf2": "JP",
+    "Cód. Alf3": "JPN",
+    "Designação": "JAPAO",
+    "Designação em Inglês": "JAPAN"
+  },
+  {
+    "Cód.Num.": "832",
+    "Cód. Alf2": "JE",
+    "Cód. Alf3": "JEY",
+    "Designação": "JERSEY",
+    "Designação em Inglês": "JERSEY (a partir de 2006-03-29)"
+  },
+  {
+    "Cód.Num.": "262",
+    "Cód. Alf2": "DJ",
+    "Cód. Alf3": "DJI",
+    "Designação": "JIBUTI",
+    "Designação em Inglês": "DJIBOUTI, REPUBLIC OF (WAS FRENCH AFARS AND ISSAS)"
+  },
+  {
+    "Cód.Num.": "400",
+    "Cód. Alf2": "JO",
+    "Cód. Alf3": "JOR",
+    "Designação": "JORDANIA",
+    "Designação em Inglês": "JORDAN, HASHEMITE KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "404",
+    "Cód. Alf2": "KE",
+    "Cód. Alf3": "KEN",
+    "Designação": "KENYA",
+    "Designação em Inglês": "KENYA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "296",
+    "Cód. Alf2": "KI",
+    "Cód. Alf3": "KIR",
+    "Designação": "KIRIBATI",
+    "Designação em Inglês": "KIRIBATI, REPUBLIC OF (WAS GILBERT ISLANDS)"
+  },
+  {
+    "Cód.Num.": "414",
+    "Cód. Alf2": "KW",
+    "Cód. Alf3": "KWT",
+    "Designação": "KUWAIT",
+    "Designação em Inglês": "KUWAIT, STATE OF"
+  },
+  {
+    "Cód.Num.": "418",
+    "Cód. Alf2": "LA",
+    "Cód. Alf3": "LAO",
+    "Designação": "LAOS (REPUBLICA POPULAR DEMOCRATICA DO)",
+    "Designação em Inglês": "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+  },
+  {
+    "Cód.Num.": "426",
+    "Cód. Alf2": "LS",
+    "Cód. Alf3": "LSO",
+    "Designação": "LESOTO",
+    "Designação em Inglês": "LESOTHO, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "428",
+    "Cód. Alf2": "LV",
+    "Cód. Alf3": "LVA",
+    "Designação": "LETONIA",
+    "Designação em Inglês": "LATVIA"
+  },
+  {
+    "Cód.Num.": "422",
+    "Cód. Alf2": "LB",
+    "Cód. Alf3": "LBN",
+    "Designação": "LIBANO",
+    "Designação em Inglês": "LEBANON, LEBANESE REPUBLIC"
+  },
+  {
+    "Cód.Num.": "430",
+    "Cód. Alf2": "LR",
+    "Cód. Alf3": "LBR",
+    "Designação": "LIBERIA",
+    "Designação em Inglês": "LIBERIA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "434\n\n\n438",
+    "Cód. Alf2": "LY\n\n\nLI",
+    "Cód. Alf3": "LBY\n\n\nLIE",
+    "Designação": "LIBIA (JAMAHIRIYA ARABE DA)\n\n\nLIECHTENSTEIN",
+    "Designação em Inglês": "LIBYAN ARAB JAMAHIRIYA\nLIECHTENSTEIN, PRINCIPALITY OF"
+  },
+  {
+    "Cód.Num.": "440",
+    "Cód. Alf2": "LT",
+    "Cód. Alf3": "LTU",
+    "Designação": "LITUANIA",
+    "Designação em Inglês": "LITHUANIA"
+  },
+  {
+    "Cód.Num.": "442",
+    "Cód. Alf2": "LU",
+    "Cód. Alf3": "LUX",
+    "Designação": "LUXEMBURGO",
+    "Designação em Inglês": "LUXEMBOURG, GRAND DUCHY OF"
+  },
+  {
+    "Cód.Num.": "446\n\n\n807\n\n\n450",
+    "Cód. Alf2": "MO\n\n\nMK\n\n\nMG",
+    "Cód. Alf3": "MAC\n\n\nMKD\n\n\nMDG",
+    "Designação": "MACAU\n\n\nMACEDONIA (ANTIGA REPUBLICA JUGOSLAVA DA)\n\n\nMADAGASCAR",
+    "Designação em Inglês": "MACAO, SPECIAL ADMINISTRATIVE REGION OF CHINA\nMACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF\nMADAGASCAR, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "458",
+    "Cód. Alf2": "MY",
+    "Cód. Alf3": "MYS",
+    "Designação": "MALASIA",
+    "Designação em Inglês": "MALAYSIA"
+  },
+  {
+    "Cód.Num.": "454",
+    "Cód. Alf2": "MW",
+    "Cód. Alf3": "MWI",
+    "Designação": "MALAWI",
+    "Designação em Inglês": "MALAWI, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "462",
+    "Cód. Alf2": "MV",
+    "Cód. Alf3": "MDV",
+    "Designação": "MALDIVAS",
+    "Designação em Inglês": "MALDIVES, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "466",
+    "Cód. Alf2": "ML",
+    "Cód. Alf3": "MLI",
+    "Designação": "MALI",
+    "Designação em Inglês": "MALI, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "470",
+    "Cód. Alf2": "MT",
+    "Cód. Alf3": "MLT",
+    "Designação": "MALTA",
+    "Designação em Inglês": "MALTA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "504",
+    "Cód. Alf2": "MA",
+    "Cód. Alf3": "MAR",
+    "Designação": "MARROCOS",
+    "Designação em Inglês": "MOROCCO, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "474",
+    "Cód. Alf2": "MQ",
+    "Cód. Alf3": "MTQ",
+    "Designação": "MARTINICA",
+    "Designação em Inglês": "MARTINIQUE"
+  },
+  {
+    "Cód.Num.": "480",
+    "Cód. Alf2": "MU",
+    "Cód. Alf3": "MUS",
+    "Designação": "MAURICIAS",
+    "Designação em Inglês": "MAURITIUS"
+  },
+  {
+    "Cód.Num.": "478",
+    "Cód. Alf2": "MR",
+    "Cód. Alf3": "MRT",
+    "Designação": "MAURITANIA",
+    "Designação em Inglês": "MAURITANIA, ISLAMIC REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "175",
+    "Cód. Alf2": "YT",
+    "Cód. Alf3": "MYT",
+    "Designação": "MAYOTTE",
+    "Designação em Inglês": "MAYOTTE"
+  },
+  {
+    "Cód.Num.": "484\n\n\n583\n\n\n508",
+    "Cód. Alf2": "MX\n\n\nFM\n\n\nMZ",
+    "Cód. Alf3": "MEX\n\n\nFSM\n\n\nMOZ",
+    "Designação": "MEXICO\n\n\nMICRONESIA (ESTADOS FEDERADOS DA)\n\n\nMOCAMBIQUE",
+    "Designação em Inglês": "MEXICO, UNITED MEXICAN STATES\nMICRONESIA, FEDERATED STATES OF\nMOZAMBIQUE, PEOPLE'S REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "498\n\n\n492",
+    "Cód. Alf2": "MD\n\n\nMC",
+    "Cód. Alf3": "MDA\n\n\nMCO",
+    "Designação": "MOLDOVA (REPUBLICA DE)\n\n\nMONACO",
+    "Designação em Inglês": "MOLDOVA, REPUBLIC OF\nMONACO, PRINCIPALITY OF"
+  },
+  {
+    "Cód.Num.": "496",
+    "Cód. Alf2": "MN",
+    "Cód. Alf3": "MNG",
+    "Designação": "MONGOLIA",
+    "Designação em Inglês": "MONGOLIA, MONGOLIAN PEOPLE'S REPUBLIC"
+  },
+  {
+    "Cód.Num.": "500",
+    "Cód. Alf2": "MS",
+    "Cód. Alf3": "MSR",
+    "Designação": "MONSERRATE",
+    "Designação em Inglês": "MONTSERRAT"
+  },
+  {
+    "Cód.Num.": "499",
+    "Cód. Alf2": "ME",
+    "Cód. Alf3": "MNE",
+    "Designação": "MONTENEGRO (REPUBLICA DE)",
+    "Designação em Inglês": "MONTENEGRO, REPUBLIC OF (a partir\n\nde 2006-09-26)"
+  },
+  {
+    "Cód.Num.": "104",
+    "Cód. Alf2": "MM",
+    "Cód. Alf3": "MMR",
+    "Designação": "MYANMAR",
+    "Designação em Inglês": "MYANMAR (WAS BURMA)"
+  },
+  {
+    "Cód.Num.": "516",
+    "Cód. Alf2": "NA",
+    "Cód. Alf3": "NAM",
+    "Designação": "NAMIBIA",
+    "Designação em Inglês": "NAMIBIA"
+  },
+  {
+    "Cód.Num.": "520",
+    "Cód. Alf2": "NR",
+    "Cód. Alf3": "NRU",
+    "Designação": "NAURU",
+    "Designação em Inglês": "NAURU, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "524",
+    "Cód. Alf2": "NP",
+    "Cód. Alf3": "NPL",
+    "Designação": "INEPAL",
+    "Designação em Inglês": "NEPAL, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "558",
+    "Cód. Alf2": "NI",
+    "Cód. Alf3": "NIC",
+    "Designação": "NICARAGUA",
+    "Designação em Inglês": "NICARAGUA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "562",
+    "Cód. Alf2": "NE",
+    "Cód. Alf3": "NER",
+    "Designação": "NIGER",
+    "Designação em Inglês": "NIGER, REPUBLIC OF THE"
+  },
+  {
+    "Cód.Num.": "566",
+    "Cód. Alf2": "NG",
+    "Cód. Alf3": "NGA",
+    "Designação": "NIGERIA",
+    "Designação em Inglês": "NIGERIA, FEDERAL REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "570",
+    "Cód. Alf2": "NU",
+    "Cód. Alf3": "NIU",
+    "Designação": "NIUE",
+    "Designação em Inglês": "NIUE, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "578",
+    "Cód. Alf2": "NO",
+    "Cód. Alf3": "NOR",
+    "Designação": "NORUEGA",
+    "Designação em Inglês": "NORWAY, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "540",
+    "Cód. Alf2": "NC",
+    "Cód. Alf3": "NCL",
+    "Designação": "NOVA CALEDONIA",
+    "Designação em Inglês": "NEW CALEDONIA"
+  },
+  {
+    "Cód.Num.": "554",
+    "Cód. Alf2": "NZ",
+    "Cód. Alf3": "NZL",
+    "Designação": "NOVA ZELANDIA",
+    "Designação em Inglês": "NEW ZEALAND"
+  },
+  {
+    "Cód.Num.": "512",
+    "Cód. Alf2": "OM",
+    "Cód. Alf3": "OMN",
+    "Designação": "OMA",
+    "Designação em Inglês": "OMAN, SULTANATE OF (WAS MUSCAT AND OMAN)"
+  },
+  {
+    "Cód.Num.": "528",
+    "Cód. Alf2": "NL",
+    "Cód. Alf3": "NLD",
+    "Designação": "PAISES BAIXOS",
+    "Designação em Inglês": "NETHERLANDS, KINGDOM OF THE"
+  },
+  {
+    "Cód.Num.": "585",
+    "Cód. Alf2": "PW",
+    "Cód. Alf3": "PLW",
+    "Designação": "PALAU",
+    "Designação em Inglês": "PALAU"
+  },
+  {
+    "Cód.Num.": "591",
+    "Cód. Alf2": "PA",
+    "Cód. Alf3": "PAN",
+    "Designação": "PANAMA",
+    "Designação em Inglês": "PANAMA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "598",
+    "Cód. Alf2": "PG",
+    "Cód. Alf3": "PNG",
+    "Designação": "PAPUASIA-NOVA GUINE",
+    "Designação em Inglês": "PAPUA NEW GUINEA"
+  },
+  {
+    "Cód.Num.": "586",
+    "Cód. Alf2": "PK",
+    "Cód. Alf3": "PAK",
+    "Designação": "PAQUISTAO",
+    "Designação em Inglês": "PAKISTAN, ISLAMIC REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "600",
+    "Cód. Alf2": "PY",
+    "Cód. Alf3": "PRY",
+    "Designação": "PARAGUAI",
+    "Designação em Inglês": "PARAGUAY, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "604",
+    "Cód. Alf2": "PE",
+    "Cód. Alf3": "PER",
+    "Designação": "PERU",
+    "Designação em Inglês": "PERU, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "612",
+    "Cód. Alf2": "PN",
+    "Cód. Alf3": "PCN",
+    "Designação": "PITCAIRN",
+    "Designação em Inglês": "PITCAIRN ISLAND"
+  },
+  {
+    "Cód.Num.": "258",
+    "Cód. Alf2": "PF",
+    "Cód. Alf3": "PYF",
+    "Designação": "POLINESIA FRANCESA",
+    "Designação em Inglês": "FRENCH POLYNESIA"
+  },
+  {
+    "Cód.Num.": "616",
+    "Cód. Alf2": "PL",
+    "Cód. Alf3": "POL",
+    "Designação": "POLONIA",
+    "Designação em Inglês": "POLAND, POLISH PEOPLE'S REPUBLIC"
+  },
+  {
+    "Cód.Num.": "630",
+    "Cód. Alf2": "PR",
+    "Cód. Alf3": "PRI",
+    "Designação": "PORTO RICO",
+    "Designação em Inglês": "PUERTO RICO"
+  },
+  {
+    "Cód.Num.": "620",
+    "Cód. Alf2": "PT",
+    "Cód. Alf3": "PRT",
+    "Designação": "PORTUGAL",
+    "Designação em Inglês": "PORTUGAL, PORTUGUESE REPUBLIC"
+  },
+  {
+    "Cód.Num.": "417",
+    "Cód. Alf2": "KG",
+    "Cód. Alf3": "KGZ",
+    "Designação": "QUIRGUIZISTAO",
+    "Designação em Inglês": "KYRGYZ REPUBLIC"
+  },
+  {
+    "Cód.Num.": "826",
+    "Cód. Alf2": "GB",
+    "Cód. Alf3": "GBR",
+    "Designação": "REINO UNIDO",
+    "Designação em Inglês": "UNITED KINGDOM OF GREAT BRITAIN & N. IRELAND"
+  },
+  {
+    "Cód.Num.": "203",
+    "Cód. Alf2": "CZ",
+    "Cód. Alf3": "CZE",
+    "Designação": "REPUBLICA CHECA",
+    "Designação em Inglês": "CZECH REPUBLIC"
+  },
+  {
+    "Cód.Num.": "214",
+    "Cód. Alf2": "DO",
+    "Cód. Alf3": "DOM",
+    "Designação": "REPUBLICA DOMINICANA",
+    "Designação em Inglês": "DOMINICAN REPUBLIC"
+  },
+  {
+    "Cód.Num.": "638",
+    "Cód. Alf2": "RE",
+    "Cód. Alf3": "REU",
+    "Designação": "REUNIAO",
+    "Designação em Inglês": "REUNION"
+  },
+  {
+    "Cód.Num.": "642",
+    "Cód. Alf2": "RO",
+    "Cód. Alf3": "ROU",
+    "Designação": "ROΜΕΝΙΑ",
+    "Designação em Inglês": "OF\n\n\nSOCIALIST REPUBLIC\n\n\nROMANIA,"
+  },
+  {
+    "Cód.Num.": "646",
+    "Cód. Alf2": "RW",
+    "Cód. Alf3": "RWA",
+    "Designação": "RUANDA",
+    "Designação em Inglês": "REPUBLIC\n\n\nRWANDA, RWANDESE"
+  },
+  {
+    "Cód.Num.": "643",
+    "Cód. Alf2": "RU",
+    "Cód. Alf3": "RUS",
+    "Designação": "RUSSIA (FEDERACAO DA)",
+    "Designação em Inglês": "RUSSIAN FEDERATION"
+  },
+  {
+    "Cód.Num.": "882",
+    "Cód. Alf2": "WS",
+    "Cód. Alf3": "WSM",
+    "Designação": "SAMOA",
+    "Designação em Inglês": "SAMOA, INDEPENDENT STATE OF (WAS WESTERN SAMOA)"
+  },
+  {
+    "Cód.Num.": "016",
+    "Cód. Alf2": "AS",
+    "Cód. Alf3": "ASM",
+    "Designação": "SAMOA AMERICANA",
+    "Designação em Inglês": "AMERICAN SAMOA"
+  },
+  {
+    "Cód.Num.": "654",
+    "Cód. Alf2": "SH",
+    "Cód. Alf3": "SHN",
+    "Designação": "SANTA HELENA",
+    "Designação em Inglês": "ST. HELENA"
+  },
+  {
+    "Cód.Num.": "662",
+    "Cód. Alf2": "LC",
+    "Cód. Alf3": "LCA",
+    "Designação": "SANTA LUCIA",
+    "Designação em Inglês": "ST. LUCIA"
+  },
+  {
+    "Cód.Num.": "336\n\n\n659",
+    "Cód. Alf2": "VA\n\n\nKN",
+    "Cód. Alf3": "VAT\n\n\nKNA",
+    "Designação": "SANTA SE (CIDADE ESTADO DO VATICANO)\n\n\nSAO CRISTOVAO E NEVIS",
+    "Designação em Inglês": "HOLY SEE (VATICAN CITY STATE)\nST. KITTS AND NEVIS"
+  },
+  {
+    "Cód.Num.": "674",
+    "Cód. Alf2": "SM",
+    "Cód. Alf3": "SMR",
+    "Designação": "SAO MARINO",
+    "Designação em Inglês": "SAN MARINO, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "666",
+    "Cód. Alf2": "PM",
+    "Cód. Alf3": "SPM",
+    "Designação": "SAO PEDRO E MIQUELON",
+    "Designação em Inglês": "ST. PIERRE AND MIQUELON"
+  },
+  {
+    "Cód.Num.": "678",
+    "Cód. Alf2": "ST",
+    "Cód. Alf3": "STP",
+    "Designação": "SAO TOME E PRINCIPE",
+    "Designação em Inglês": "SAO TOME AND PRINCIPE, DEMOCRATIC REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "670\n\n\n732",
+    "Cód. Alf2": "VC\n\n\nEH",
+    "Cód. Alf3": "VCT\n\n\nESH",
+    "Designação": "SAO VICENTE E GRANADINAS\n\n\nSARA OCIDENTAL",
+    "Designação em Inglês": "ST. VINCENT AND THE GRENADINES\nWESTERN SAHARA (WAS SPANISH SAHARA)"
+  },
+  {
+    "Cód.Num.": "686",
+    "Cód. Alf2": "SN",
+    "Cód. Alf3": "SEN",
+    "Designação": "SENEGAL",
+    "Designação em Inglês": "SENEGAL, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "694",
+    "Cód. Alf2": "SL",
+    "Cód. Alf3": "SLE",
+    "Designação": "SERRA LEOA",
+    "Designação em Inglês": "OF\n\n\nSIERRA LEONE, REPUBLIC"
+  },
+  {
+    "Cód.Num.": "891",
+    "Cód. Alf2": "CS",
+    "Cód. Alf3": "SCG",
+    "Designação": "SERVIA E MONTENEGRO",
+    "Designação em Inglês": "SERBIA AND MONTENEGRO (WAS YUGOSLAVIA) (até 2006-09-25)"
+  },
+  {
+    "Cód.Num.": "688",
+    "Cód. Alf2": "RS",
+    "Cód. Alf3": "SRB",
+    "Designação": "SERVIA (REPUBLICA DA)",
+    "Designação em Inglês": "SERBIA, REPUBLIC OF (a partir de 2006-09-26)"
+  },
+  {
+    "Cód.Num.": "690",
+    "Cód. Alf2": "SC",
+    "Cód. Alf3": "SYC",
+    "Designação": "SEYCHELLES",
+    "Designação em Inglês": "SEYCHELLES, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "702",
+    "Cód. Alf2": "SG",
+    "Cód. Alf3": "SGP",
+    "Designação": "SINGAPURA",
+    "Designação em Inglês": "SINGAPORE, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "760",
+    "Cód. Alf2": "SY",
+    "Cód. Alf3": "SYR",
+    "Designação": ")",
+    "Designação em Inglês": "SIRIA (REPUBLICA ARABE DA\n\n\nSYRIAN ARAB REPUBLIC"
+  },
+  {
+    "Cód.Num.": "706",
+    "Cód. Alf2": "SO",
+    "Cód. Alf3": "SOM",
+    "Designação": "SOMALIA",
+    "Designação em Inglês": "SOMALIA, SOMALI REPUBLIC"
+  },
+  {
+    "Cód.Num.": "144",
+    "Cód. Alf2": "LK",
+    "Cód. Alf3": "LKA",
+    "Designação": "SRI LANKA",
+    "Designação em Inglês": "SRI LANKA, DEMOCRATIC SOCIALIST REPUBLIC OF (WAS CEYLON)"
+  },
+  {
+    "Cód.Num.": "748",
+    "Cód. Alf2": "SZ",
+    "Cód. Alf3": "SWZ",
+    "Designação": "SUAZILANDIA",
+    "Designação em Inglês": "SWAZILAND, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "736",
+    "Cód. Alf2": "SD",
+    "Cód. Alf3": "SDN",
+    "Designação": "SUDAO",
+    "Designação em Inglês": "SUDAN, DEMOCRATIC REPUBLIC OF THE"
+  },
+  {
+    "Cód.Num.": "752",
+    "Cód. Alf2": "SE",
+    "Cód. Alf3": "SWE",
+    "Designação": "SUECIA",
+    "Designação em Inglês": "SWEDEN, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "756",
+    "Cód. Alf2": "CH",
+    "Cód. Alf3": "CHE",
+    "Designação": "SUICA",
+    "Designação em Inglês": "SWITZERLAND, SWISS CONFEDERATION"
+  },
+  {
+    "Cód.Num.": "740\n\n\n744",
+    "Cód. Alf2": "SR\n\n\nSJ",
+    "Cód. Alf3": "SUR\n\n\nSJM",
+    "Designação": "SURINAME\n\n\nSVALBARD E A ILHA DE JAN MAYEN",
+    "Designação em Inglês": "SURINAME, REPUBLIC OF\nSVALBARD & JAN MAYEN ISLANDS"
+  },
+  {
+    "Cód.Num.": "764",
+    "Cód. Alf2": "TH",
+    "Cód. Alf3": "THA",
+    "Designação": "TAILANDIA",
+    "Designação em Inglês": "THAILAND, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "158",
+    "Cód. Alf2": "TW",
+    "Cód. Alf3": "TWN",
+    "Designação": "TAIWAN",
+    "Designação em Inglês": "TAIWAN"
+  },
+  {
+    "Cód.Num.": "762",
+    "Cód. Alf2": "TJ",
+    "Cód. Alf3": "TJK",
+    "Designação": "TAJIQUISTAO",
+    "Designação em Inglês": "TAJIKISTAN"
+  },
+  {
+    "Cód.Num.": "834",
+    "Cód. Alf2": "TZ",
+    "Cód. Alf3": "TZA",
+    "Designação": "TANZANIA, REPUBLICA UNIDA DA",
+    "Designação em Inglês": "TANZANIA, UNITED REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "086\n\n\n275",
+    "Cód. Alf2": "10\n\n\nPS",
+    "Cód. Alf3": "IOT\n\n\nPSE",
+    "Designação": "TERRITORIO BRITANICO DO OCEANO INDICO\n\n\nTERRITORIO PALESTINIANO OCUPADO",
+    "Designação em Inglês": "BRITISH INDIAN OCEAN TERRITORY (CHAGOS ARCHIPELAGO)\nPALESTINIAN TERRITORY, OCCUPIED"
+  },
+  {
+    "Cód.Num.": "260\n\n\n626",
+    "Cód. Alf2": "TF\n\n\nTL",
+    "Cód. Alf3": "ATF\n\n\nTLS",
+    "Designação": "TERRITORIOS FRANCESES DO SUL\n\n\nTIMOR LESTE",
+    "Designação em Inglês": "FRENCH SOUTHERN TERRITORIES\nEAST TIMOR, DEMOCRATIC REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "768\n\n\n772\n\n\n776",
+    "Cód. Alf2": "TG\n\n\nTK\n\n\nTO",
+    "Cód. Alf3": "TGO\n\n\nTKL\n\n\nΤΟΝ",
+    "Designação": "TOGO\n\n\nTOKELAU\n\n\nTONGA",
+    "Designação em Inglês": "TOGO, TOGOLESE REPUBLIC\nTOKELAU (TOKELAU ISLANDS)\nTONGA, KINGDOM OF"
+  },
+  {
+    "Cód.Num.": "780\n\n\n788",
+    "Cód. Alf2": "TT\n\n\nTN",
+    "Cód. Alf3": "TTO\n\n\nTUN",
+    "Designação": "TRINDADE E TOBAGO\n\n\nTUNISIA",
+    "Designação em Inglês": "TRINIDAD AND TOBAGO, REPUBLIC OF\nTUNISIA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "796\n\n\n795",
+    "Cód. Alf2": "TC\n\n\nTM",
+    "Cód. Alf3": "TCA\n\n\nTKM",
+    "Designação": "TURCOS E CAICOS (ILHAS)\n\n\nTURQUEMENISTAO",
+    "Designação em Inglês": "TURKS AND CAICOS ISLANDS\nTURKMENISTAN"
+  },
+  {
+    "Cód.Num.": "792",
+    "Cód. Alf2": "TR",
+    "Cód. Alf3": "TUR",
+    "Designação": "TURQUIA",
+    "Designação em Inglês": "TURKEY, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "798",
+    "Cód. Alf2": "TV",
+    "Cód. Alf3": "TUV",
+    "Designação": "TUVALU",
+    "Designação em Inglês": "TUVALU (WAS PART OF GILBERT & ELLICE ISLANDS)"
+  },
+  {
+    "Cód.Num.": "804",
+    "Cód. Alf2": "UA",
+    "Cód. Alf3": "UKR",
+    "Designação": "UCRANIA",
+    "Designação em Inglês": "UKRAINE"
+  },
+  {
+    "Cód.Num.": "800",
+    "Cód. Alf2": "UG",
+    "Cód. Alf3": "UGA",
+    "Designação": "UGANDA",
+    "Designação em Inglês": "UGANDA, REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "858",
+    "Cód. Alf2": "UY",
+    "Cód. Alf3": "URY",
+    "Designação": "URUGUAI",
+    "Designação em Inglês": "URUGUAY, EASTERN REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "860",
+    "Cód. Alf2": "UZ",
+    "Cód. Alf3": "UZB",
+    "Designação": "USBEQUISTAO",
+    "Designação em Inglês": "UZBEKISTAN"
+  },
+  {
+    "Cód.Num.": "548",
+    "Cód. Alf2": "VU",
+    "Cód. Alf3": "VUT",
+    "Designação": "VANUATU",
+    "Designação em Inglês": "VANUATU (WAS NEW HEBRIDES)\nVENEZUELA, BOLIVARIAN REPUBLIC OF"
+  },
+  {
+    "Cód.Num.": "862",
+    "Cód. Alf2": "VE",
+    "Cód. Alf3": "VEN",
+    "Designação": "VENEZUELA",
+    "Designação em Inglês": null
+  },
+  {
+    "Cód.Num.": "704",
+    "Cód. Alf2": "VN",
+    "Cód. Alf3": "VNM",
+    "Designação": "VIETNAME",
+    "Designação em Inglês": "VIET NAM, SOCIALIST REPUBLIC OF (WAS DEMOCRATIC REPUBLIC OF)"
+  },
+  {
+    "Cód.Num.": "876\n\n\n894\n\n\n716",
+    "Cód. Alf2": "WF\n\n\nZM\n\n\nZW",
+    "Cód. Alf3": "WLF\n\n\nZMB\n\n\nZWE",
+    "Designação": "WALLIS E FUTUNA (ILHAS)\n\n\nZAMBIA\n\n\nZIMBABWE",
+    "Designação em Inglês": "WALLIS AND FUTUNA ISLANDS\nZAMBIA, REPUBLIC OF\nZIMBABWE (WAS SOUTHERN RHODESIA)"
+  }
+]
